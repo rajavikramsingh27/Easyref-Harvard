@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ActionSheetPicker-3.0.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>JFMinimalNotifications.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Pods-Harvard.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>ZXingObjC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2E7D83F27EEB91A80D14B61D2C06D0BB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3A73100D6475451DA2D9C31E7A889CA1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4085BBA1D7ECD24666200D8FD6DE8746</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>81DE70A5848A65B16C40A656FE0CE7BF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

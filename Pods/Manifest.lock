@@ -1,0 +1,34 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.2.0)
+  - IQKeyboardManager (3.3.7)
+  - JFMinimalNotifications (0.0.8)
+  - MBProgressHUD (1.0.0)
+  - ZXingObjC (3.1.0):
+    - ZXingObjC/All (= 3.1.0)
+  - ZXingObjC/All (3.1.0)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - IQKeyboardManager
+  - JFMinimalNotifications (~> 0.0.2)
+  - MBProgressHUD
+  - ZXingObjC (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - IQKeyboardManager
+    - JFMinimalNotifications
+    - MBProgressHUD
+    - ZXingObjC
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: d11a4c12c6aaf704b8a3f56d179198c99f3e41e6
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  JFMinimalNotifications: 6178a493b503c9af365aa1d4258019da4f31efa2
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  ZXingObjC: bf15b3814f7a105b6d99f47da2333c93a063650a
+
+PODFILE CHECKSUM: 86c87efa1075eee8570d2aa72200402acf5fb063
+
+COCOAPODS: 1.8.1

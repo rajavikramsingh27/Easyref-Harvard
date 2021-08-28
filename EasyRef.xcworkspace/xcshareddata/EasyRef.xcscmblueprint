@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DB5CE7A95EE289D5A20C0BCC98FACD9994CBC774",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DB5CE7A95EE289D5A20C0BCC98FACD9994CBC774" : 9223372036854775807,
+    "AE532782F1F43E297BDE540717AE36C3B4AC1C76" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F32AA71D-57E0-4412-80E2-3985F19C2B3C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DB5CE7A95EE289D5A20C0BCC98FACD9994CBC774" : "RefRef%20Harvard\/",
+    "AE532782F1F43E297BDE540717AE36C3B4AC1C76" : "ReferencingGit"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EasyRef",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EasyRef.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/elesr\/EasyRef.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE532782F1F43E297BDE540717AE36C3B4AC1C76"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/AyClassApps\/easyref-harvard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DB5CE7A95EE289D5A20C0BCC98FACD9994CBC774"
+    }
+  ]
+}
